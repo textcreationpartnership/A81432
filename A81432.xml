@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue betwixt rattle-head and round-head. Neutralius being moderator betwixt both. With their peaceable agreement, and their conference for maintaining their severall opinions. With the argument against bishops. Full of mirth, and repleat with witty inventions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81432</idno>
+            <idno type="STC">Wing D1352</idno>
+            <idno type="STC">Thomason E134_19</idno>
+            <idno type="EEBO-CITATION">99873375</idno>
+            <idno type="PROQUEST">99873375</idno>
+            <idno type="VID">156409</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156409)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue betwixt rattle-head and round-head. Neutralius being moderator betwixt both. With their peaceable agreement, and their conference for maintaining their severall opinions. With the argument against bishops. Full of mirth, and repleat with witty inventions.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLJ [1641 i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roundheads --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156409:1" rendition="simple:additions"/>
+            <p>A DIALOGVE BETWIXT RATTLE-HEAD AND ROUND-HEAD, <hi>Neutralius</hi> being Moderator betwixt both.</p>
+            <p>
+               <hi>WITH</hi> Their peaceable agreement, and their Conference for maintaining their ſeverall Opinions.</p>
+            <p>With the Argument againſt Biſhops.</p>
+            <p>Full of mirth, and repleat with witty Inventions.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for T. G. MDCXLJ.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:156409:2"/>
+            <pb facs="tcp:156409:2"/>
+            <head>A DIALOGVE <hi>BETWIXT</hi> RATTLE-HEAD, AND ROVND-HEAD.</head>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>
+                  <seg rend="decorInit">I</seg>N the very portall or En<g ref="char:EOLhyphen"/>trance of this <hi>Tractate,</hi> friendly Dialogue, or zea<g ref="char:EOLhyphen"/>lous commerce, we intend to diſcourſe, touching the Etimologie of your late publiſhed Pamphlet, which in reſpect our Anſwer was not ſufficiently punctuall, therefore we have ſingled out this opportunitie, for a more edifying conference.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:156409:3"/>
+               <speaker>Rattleh.</speaker>
+               <p>Too't roundly then, and as I firſt began to write, ſo you to ſpeak?</p>
+            </sp>
+            <sp>
+               <speaker>Neut.</speaker>
+               <p>And for my part I'le hold with the wiſeſt.</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>Then thus deer brother, I do much ad<g ref="char:EOLhyphen"/>mire that you being of ſo neer affinity to us in Reli<g ref="char:EOLhyphen"/>gion can find no means to conjoyn an vnity?</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>Only perverſneſſe in the vnitage of your circular opinions, being grounded on nothing but the ends of the Coblers ſimplicity, whoſe long ſtitches I fear in concluſion, will go neer to loſe your ſoules from the vpper leather.</p>
+            </sp>
+            <sp>
+               <speaker>Neut.</speaker>
+               <p>
+                  <hi>H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s words are dangerous, expound it well, ſtick but cloſe to him, you'l put him in a Tub?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>That's my deſire, and had J him but once there, I'de all I wiſh't for, aſſiſt me then.</p>
+            </sp>
+            <sp>
+               <speaker>Neut.</speaker>
+               <p>Aſsiſt ye, I'le firſt hang ye, do I come hither as a Conſtable to command you to keep the Kings peace, and learn a new religion, for to help you out before you are in.</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>Dear brother <hi>Ruttlehead,</hi> did you but know the path, that perfect rode, by which, tread the rea<g ref="char:EOLhyphen"/>dy way to heaven, you'd ſoon renounce your church you follow now, and turn to us.</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>Your doctrine ſhould be better firſt?</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>Would you but grant attenſion, hear me ſpeak, and but compare your form of government with ours, I'de ſoon tranſport you to a haven of hap<g ref="char:EOLhyphen"/>pineſſe, by changing your opinion, and confute you by your own words.</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>Do ſo, and win me, make it appear by grave diſpute what you have ſaid: and firſt begin to nominate thoſe orders (wherein we differ) that are ſo highly extol'd by you.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:156409:3"/>
+               <speaker>Roundh.</speaker>
+               <p>I ſhall do that, and more to gain a ſoule.</p>
+            </sp>
+            <sp>
+               <speaker>Neut.</speaker>
+               <p>Here is like to be a game well plaid, when ſoules are at ſtake?</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>Firſt, then as for our Church, I mean the viſible and ſelect Church, not the ſhadow which you ſo much adore, full of Papiſticall Images.</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>No, a Barn?</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>You interrupt me, and miſconſter to my reall meaning, that ſame Church: I ſay, whereas the brethren and the holy Siſters meet, where you ſhall ſee a man vnlearned, divinely expound vpon a piece of Scripture, delivering nothing but by inſpirations, no toralogicall expreſſions, or Scolaſticall ſentences whereby to hinder the benefit of the attentive Audi<g ref="char:EOLhyphen"/>tory: after him a Siſter, whoſe zeal towards the Church is inexpreſſible, that delivers nothing but what the Spirit moves; is your form of teaching then like ours?</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>No, nor is it fit it ſhould be: ſince when I pray was this ſame new found Platforme of teach<g ref="char:EOLhyphen"/>ing invented, when inſtituted, who are your Authors for this your admirable device; away with this ſim<g ref="char:EOLhyphen"/>plicity, either ſpeak wiſer, or not at all.</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>It ſeemes then any thing concerning our Church will not be allowed on, how ſtand you then affected towards your own,</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>As every true Chriſtian ought, maintain it with my blood, and vttermoſt endeavors.</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>Say you ſo, can that houſe ſtand, whoſe principle <hi>foundation</hi> is defective; or can that <hi>Church</hi> be the true <hi>Church,</hi> whoſe principal heads are the in<g ref="char:EOLhyphen"/>ſtigators vnto evill: <hi>Rat.</hi> you cannot lay that aſper<g ref="char:EOLhyphen"/>ſion vpon vs. <hi>Ro.</hi> yes, &amp; moſt juſtly too; what are thoſe
+<pb facs="tcp:156409:4"/>neither Rattle-heads nor Roundheads, I'm ſure they are wicked heads.</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>Now Sir you have hit the mark, your do<g ref="char:EOLhyphen"/>cumenting Tayler, never put a yard into your hand that made better meaſure then this: I muſt confeſſe that they are guilty, and have been a diſhonour to the Church, but wherewithall do you accuſe them.</p>
+            </sp>
+            <sp>
+               <speaker>Neut.</speaker>
+               <p>Hold, hold my Maſters, I came to be part<g ref="char:EOLhyphen"/>ners with you in your Religions, but now I fear you'l turn Cat ith' pan and be both one; and ſo betwixt two ſtooles, my arſe fall in ground.</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>So ſhall we be both happy, and like bro<g ref="char:EOLhyphen"/>thers embrace with affectionate zeal: but tell us thy opinion concerning our argument.</p>
+            </sp>
+            <sp>
+               <speaker>Neut.</speaker>
+               <p>Truly Sir, to ſpeak my minde of Rattle<g ref="char:EOLhyphen"/>heads, Roundheads, Loggerheads, &amp;c. I am of the opinion, <hi>there is never a barrell better herrïng.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>Short and ſweet, <hi>Iack of both ſides,</hi> but brother Roundhead what ſay you to the former pro<g ref="char:EOLhyphen"/>poſition concerning the heads we ſpake laſt of.</p>
+            </sp>
+            <sp>
+               <speaker>Round.</speaker>
+               <p>As for his Graceleſſe Grace theſe ſhall be my objections againſt him: by his uncontroulable hand at Lambeth, he made the <hi>High Commiſsion</hi> his <hi>Delegat,</hi> his <hi>Creature,</hi> his <hi>Fawn,</hi> his obliged ſervant; his tyrannie over good and able Miniſters, inſomuch as their ears became as familiar as ſheeps ears; and ſo cheap as they hung upon that <hi>Babylonian</hi> image <hi>Cheapſide-Croſse</hi> like labels, that if any wanted a pain they might have an eaſie penniworth in them: if theſe be in his commendations, I wil ſpeak of him everla<g ref="char:EOLhyphen"/>ſtingly.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:156409:4"/>
+               <speaker>Rattleh.</speaker>
+               <p>J muſt confeſſe this ſame <hi>little man</hi> hath many <hi>great faults,</hi> yet when error is like to incur, a ſpeedy cenſure, and ambition were it never ſo over<g ref="char:EOLhyphen"/>topping like to ſuffer. Humanity cannot chuſe but find a teare, and Piety a ſigh, at the ſurvay of ſuch a ſight. <hi>To ſee the Metropolitan of a flouriſhing K ng<g ref="char:EOLhyphen"/>dome loſe his head, is <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o ordinary Spectacle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>The ſooner, the better: ſuch an ordinarie would I give twelve pence but to look at.</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>I muſt confeſſe it would be no great eye ſore nor hearts griefe to me neither.</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>Sith, then we are almoſt reduced to one opinion, be conformable to us in vniting your ſelves to us in Religion, and ſo make us all happie.</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>As for that, my mind is altogether con<g ref="char:EOLhyphen"/>trary to all your precepts therin contained, contra<g ref="char:EOLhyphen"/>dicting us eſpecially concerning your <hi>Church go<g ref="char:EOLhyphen"/>vernment;</hi> we therefore ſhall take further time to diſcourſe of it: but for this ſubject, wherin we agree together, if it be your pleaſure, wee petition the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> for a redreſſe, I ſhall aſſiſt you.</p>
+            </sp>
+            <sp>
+               <speaker>Roundh.</speaker>
+               <p>With all my heart.</p>
+            </sp>
+            <sp>
+               <speaker>Rattleh.</speaker>
+               <p>And ſince we writ invective Songs one againſt the other in our former books, let vs now ſing old <hi>roſe</hi> over a pint of ſack, and jovn our me<g ref="char:EOLhyphen"/>thods together to compound one vnanimous thing to the former purpoſe.</p>
+            </sp>
+            <div type="song">
+               <pb facs="tcp:156409:5"/>
+               <head>THE SONG.</head>
+               <sp>
+                  <speaker>Rattlehead.</speaker>
+                  <l>BIſhops hold your wonted prattle,</l>
+                  <l>Rather now provide for battle</l>
+                  <l>An enemy ha's vow'd to rattle</l>
+                  <l>Your tippets from your Crown,</l>
+                  <l>
+                     <hi>Round-heads Round.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Round-head.</speaker>
+                  <l>Take your Miter to the field</l>
+                  <l>Let it ſerve you for a ſhield,</l>
+                  <l>'Twill pay your Ranſome if you yeeld:</l>
+                  <l>We have reſolv'd it ſo</l>
+                  <l>To lay you low.</l>
+               </sp>
+               <sp>
+                  <speaker>Rattleh.</speaker>
+                  <lg>
+                     <l>Let Lawn-ſleeves ſerve inſtead of Buffe,</l>
+                     <l>And for your Arms your partled ruffe,</l>
+                     <l>You may be fierce 'tis piſtoll proofe:</l>
+                     <l>It is your diſmall fate</l>
+                     <l>Come down Prelate.</l>
+                  </lg>
+                  <lg>
+                     <l>Your grown is firme, and coat of male</l>
+                     <l>Your Graces perſon to impale,</l>
+                     <l>But that your Honour now growes ſtale:</l>
+                     <l>There is a new way found</l>
+                     <l>By Round-heads Round.</l>
+                  </lg>
+                  <lg>
+                     <l>Look to your ſelves, our ſhew is dumbe,</l>
+                     <l>We give you warning ere we come,</l>
+                     <l>We mean ſuch Birds as you to plumme:</l>
+                     <l>Farewell, till time produce</l>
+                     <l>You no excuſe.</l>
+                  </lg>
+               </sp>
+               <p>per <hi>Roger Rattle-head.</hi> &amp; <hi>Alexander Round-head.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:156409:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
